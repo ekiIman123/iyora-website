@@ -64,7 +64,7 @@ export default function Navbar() {
             height={40}
             priority
             className={clsx(
-              "object-contain h-10 w-auto transition-all duration-300",
+              "object-contain h-7 md:h-10 w-auto transition-all duration-300",
               !scrolled && "brightness-0 invert"
             )}
           />
