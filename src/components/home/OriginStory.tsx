@@ -3,6 +3,27 @@
 import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
 
+function withIYSALink(text: string) {
+  return text.split("IYSA").map((part, i, arr) =>
+    i < arr.length - 1 ? (
+      <span key={i}>
+        {part}
+        <a
+          href="https://www.iysa.or.id"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="font-semibold text-teal underline underline-offset-2 hover:opacity-80 transition-opacity"
+          style={{ color: "#39bcbe" }}
+        >
+          IYSA
+        </a>
+      </span>
+    ) : (
+      <span key={i}>{part}</span>
+    )
+  );
+}
+
 const slideIn = (direction: "left" | "right") => ({
   hidden: { opacity: 0, x: direction === "left" ? -50 : 50 },
   visible: {
@@ -50,7 +71,7 @@ export default function OriginStory() {
           <div className="grid md:grid-cols-2 gap-8">
             {bodyParagraphs.map((para, i) => (
               <p key={i} className="text-gray-600 leading-relaxed text-[15px]">
-                {para}
+                {withIYSALink(para)}
               </p>
             ))}
           </div>
