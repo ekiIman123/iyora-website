@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "about": "Tentang Kami",
+    "competitions": "Kompetisi",
+    "news": "Berita",
+    "partners": "Mitra",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "headline": "Indonesian Youth\nOutstanding Recognition Association",
+    "subheadlines": [
+      "Tumbuh dari IYSA, IYORA hadir sebagai rumah khusus bagi olimpiade sains Indonesia — untuk memastikan setiap bakat ilmiah terbaik mendapat panggung yang setara dengan kebesarannya.",
+      "Kami percaya setiap pikiran yang brilian layak mendapat pengakuan. IYORA hadir untuk menemukan, menguji, dan mengangkat generasi ilmuwan muda terbaik Indonesia.",
+      "Dari biologi hingga matematika, dari fisika hingga geografi — IYORA mengelola 12 cabang olimpiade sains bertaraf nasional dan internasional.",
+      "Lebih dari 50.000 siswa dari 20 negara telah membuktikan diri melalui olimpiade yang kami selenggarakan. Saatnya giliran kamu."
+    ],
+    "cta_primary": "Kenali IYORA",
+    "cta_secondary": "Lihat Kompetisi"
+  },
+  "origin": {
+    "title": "Mengapa IYORA Lahir?",
+    "subtitle": "Sebuah warisan yang berkembang menjadi dua kekuatan",
+    "body": "Sejak berdiri, IYSA telah menjadi garda terdepan dalam mengembangkan potensi ilmiah generasi muda Indonesia. Dari panggung nasional hingga internasional, ribuan siswa telah dipertemukan dengan kesempatan untuk bersaing, berinovasi, dan membuktikan diri.\n\nNamun seiring pertumbuhan, dua dunia besar terbentuk di dalam satu atap: dunia invensi yang melahirkan karya dan solusi baru, dan dunia olimpiade yang menguji kedalaman penguasaan ilmu pengetahuan.\n\nKeduanya besar. Keduanya penting. Keduanya layak mendapat perhatian penuh.\n\nMaka lahirlah IYORA — sebuah lembaga yang sepenuhnya didedikasikan untuk satu misi: mengenali dan mengangkat potensi terbaik muda Indonesia melalui olimpiade sains.",
+    "conclusion": "Ini bukan pemisahan. Ini adalah spesialisasi demi keunggulan.",
+    "iysa_label": "IYSA",
+    "iysa_desc": "Invensi & Inovasi",
+    "iyora_label": "IYORA",
+    "iyora_desc": "Olimpiade Sains"
+  },
+  "stats": {
+    "title": "Warisan yang Kami Emban",
+    "olympiads": "Cabang Olimpiade",
+    "countries": "Negara Peserta",
+    "students": "Siswa Terdaftar",
+    "years": "Tahun Pengalaman"
+  },
+  "competitions_section": {
+    "title": "Olimpiade yang Kami Selenggarakan",
+    "subtitle": "Dua belas cabang olimpiade, satu misi: menemukan dan mengangkat talenta terbaik Indonesia.",
+    "view_detail": "Lihat Detail",
+    "national": "Nasional",
+    "international": "Internasional",
+    "biology": "Biologi",
+    "physics": "Fisika",
+    "chemistry": "Kimia",
+    "mathematics": "Matematika",
+    "geography": "Geografi",
+    "environment": "Lingkungan",
+    "madrasah": "Madrasah",
+    "world": "Olimpiade Dunia"
+  },
+  "why": {
+    "title": "Standar yang Kami Jaga",
+    "subtitle": "Tiga fondasi yang membuat IYORA berbeda.",
+    "focus_title": "Fokus Penuh pada Olimpiade",
+    "focus_desc": "Tidak terbagi antara invensi dan olimpiade — 100% energi, sumber daya, dan inovasi kami dicurahkan untuk satu tujuan: melahirkan juara sains muda Indonesia.",
+    "network_title": "Jaringan Internasional",
+    "network_desc": "Terhubung dengan lebih dari 20 negara, IYORA membuka pintu bagi siswa Indonesia untuk bersaing di panggung dunia dan membawa nama bangsa.",
+    "trust_title": "Diakui & Dipercaya",
+    "trust_desc": "Dibangun di atas rekam jejak IYSA yang telah teruji selama lebih dari satu dekade, IYORA hadir dengan fondasi kepercayaan yang sudah terbentuk."
+  },
+  "cta_section": {
+    "title": "Siap Bersaing di Level Berikutnya?",
+    "desc": "Bergabunglah bersama puluhan ribu siswa dari seluruh dunia yang telah memilih IYORA sebagai arena pembuktian diri mereka.",
+    "button": "Jelajahi Kompetisi"
+  },
+  "footer": {
+    "tagline": "Lahir dari IYSA, Didedikasikan untuk Olimpiade.",
+    "competitions": "Kompetisi",
+    "about_us": "Tentang Kami",
+    "about": "Tentang IYORA",
+    "vision": "Visi & Misi",
+    "team": "Tim Ahli",
+    "partners_label": "Mitra",
+    "follow": "Ikuti Kami",
+    "copyright": "© 2025 IYORA — Indonesian Youth Outstanding Recognition Association",
+    "born": "Lahir dari IYSA"
+  },
+  "about": {
+    "hero_title": "Tentang IYORA",
+    "hero_subtitle": "Memahami siapa kami, dari mana kami berasal, dan ke mana kami melangkah.",
+    "story_title": "Kisah Kami",
+    "story_body": "IYORA lahir dari sebuah keyakinan sederhana namun kuat: bahwa keunggulan membutuhkan fokus. Selama lebih dari satu dekade, IYSA telah membuktikan bahwa generasi muda Indonesia mampu bersaing di panggung sains dunia. Kini, dengan membentuk IYORA sebagai lembaga khusus olimpiade, kami membawa komitmen itu ke level berikutnya.\n\nSetiap olimpiade yang kami selenggarakan adalah kesempatan bagi seorang siswa untuk menemukan potensi terbaiknya. Setiap medali adalah pengakuan atas kerja keras dan kecerdasan yang telah dipupuk bertahun-tahun. Itulah inti dari nama kami: Recognition — pengakuan atas keunggulan.",
+    "vision_title": "Visi",
+    "vision_body": "Menjadi lembaga olimpiade sains pemuda terdepan di Asia Tenggara yang melahirkan generasi ilmuwan muda berprestasi, berkarakter, dan berdaya saing global.",
+    "mission_title": "Misi",
+    "mission_1": "Menyelenggarakan olimpiade sains berkualitas tinggi di tingkat nasional dan internasional",
+    "mission_2": "Membangun ekosistem kompetisi yang adil, inklusif, dan terpercaya",
+    "mission_3": "Menghubungkan siswa Indonesia dengan jejaring ilmuwan muda global",
+    "mission_4": "Mendorong budaya berprestasi berbasis ilmu pengetahuan di kalangan pelajar Indonesia",
+    "values_title": "Nilai-Nilai Kami",
+    "val_excellence": "Keunggulan",
+    "val_excellence_desc": "Standar tertinggi dalam setiap penyelenggaraan",
+    "val_integrity": "Integritas",
+    "val_integrity_desc": "Kompetisi yang jujur, adil, dan transparan",
+    "val_inclusivity": "Inklusivitas",
+    "val_inclusivity_desc": "Terbuka untuk semua siswa dari semua latar belakang",
+    "val_innovation": "Inovasi",
+    "val_innovation_desc": "Terus berkembang dalam format dan kualitas",
+    "val_collaboration": "Kolaborasi",
+    "val_collaboration_desc": "Membangun jaringan antar bangsa melalui sains"
+  },
+  "competitions_page": {
+    "title": "Kompetisi Kami",
+    "subtitle": "Dua belas cabang olimpiade sains, dari tingkat nasional hingga internasional.",
+    "filter_all": "Semua",
+    "filter_national": "Nasional",
+    "filter_international": "Internasional",
+    "filter_madrasah": "Madrasah",
+    "level": "Level",
+    "participants": "Peserta",
+    "format": "Format",
+    "online": "Online",
+    "hybrid": "Hybrid",
+    "sma": "SMA / Sederajat",
+    "sd_sma": "SD – SMA",
+    "mi_ma": "MI – MA (Madrasah)",
+    "visit_site": "Kunjungi Website"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Ada pertanyaan? Kami siap membantu.",
+    "name": "Nama",
+    "email": "Email",
+    "institution": "Institusi",
+    "purpose": "Keperluan",
+    "purpose_info": "Informasi Olimpiade",
+    "purpose_partner": "Kemitraan",
+    "purpose_media": "Media",
+    "purpose_other": "Lainnya",
+    "message": "Pesan",
+    "send": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "success": "Pesan terkirim! Kami akan menghubungi Anda segera.",
+    "our_email": "Email Kami",
+    "location": "Lokasi",
+    "location_value": "Indonesia"
+  }
+}

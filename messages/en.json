@@ -1,0 +1,139 @@
+{
+  "nav": {
+    "about": "About Us",
+    "competitions": "Competitions",
+    "news": "News",
+    "partners": "Partners",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Indonesian Youth\nOutstanding Recognition Association",
+    "subheadlines": [
+      "Born from the legacy of IYSA, IYORA stands as Indonesia's dedicated home for science olympiads — ensuring every outstanding scientific talent receives a stage worthy of their greatness.",
+      "We believe every brilliant mind deserves recognition. IYORA is here to discover, challenge, and elevate Indonesia's finest young scientists to the world stage.",
+      "From biology to mathematics, from physics to geography — IYORA manages 12 branches of science olympiads at national and international levels.",
+      "Over 50,000 students from 20 countries have proven themselves through our olympiads. Now it's your turn."
+    ],
+    "cta_primary": "Discover IYORA",
+    "cta_secondary": "View Competitions"
+  },
+  "origin": {
+    "title": "Why Was IYORA Born?",
+    "subtitle": "A legacy that grew into two distinct strengths",
+    "body": "Since its founding, IYSA has stood at the forefront of developing the scientific potential of Indonesia's youth. From national to international stages, thousands of students have been given the opportunity to compete, innovate, and prove their capabilities.\n\nYet as growth continued, two distinct worlds emerged under one roof: the world of invention — creating works and new solutions — and the world of olympiads — testing the depth of mastery over scientific knowledge.\n\nBoth are significant. Both are essential. Both deserve undivided attention.\n\nAnd so IYORA was born — an institution entirely dedicated to a single mission: recognizing and elevating the finest young talent of Indonesia through science olympiads.",
+    "conclusion": "This is not a separation. This is specialization in pursuit of excellence.",
+    "iysa_label": "IYSA",
+    "iysa_desc": "Invention & Innovation",
+    "iyora_label": "IYORA",
+    "iyora_desc": "Science Olympiads"
+  },
+  "stats": {
+    "title": "The Legacy We Carry",
+    "olympiads": "Olympiad Disciplines",
+    "countries": "Participating Countries",
+    "students": "Registered Students",
+    "years": "Years of Experience"
+  },
+  "competitions_section": {
+    "title": "Olympiads We Organize",
+    "subtitle": "Twelve olympiad disciplines, one mission: discovering and elevating Indonesia's finest talent.",
+    "view_detail": "View Details",
+    "national": "National",
+    "international": "International",
+    "biology": "Biology",
+    "physics": "Physics",
+    "chemistry": "Chemistry",
+    "mathematics": "Mathematics",
+    "geography": "Geography",
+    "environment": "Environment",
+    "madrasah": "Madrasah",
+    "world": "World Olympiad"
+  },
+  "why": {
+    "title": "The Standards We Uphold",
+    "subtitle": "Three pillars that set IYORA apart.",
+    "focus_title": "Fully Focused on Olympiads",
+    "focus_desc": "Undivided between invention and olympiads — 100% of our energy, resources, and innovation is devoted to one purpose: producing Indonesia's next generation of science champions.",
+    "network_title": "International Network",
+    "network_desc": "Connected with more than 20 countries, IYORA opens doors for Indonesian students to compete on the world stage and carry the nation's name with pride.",
+    "trust_title": "Recognized & Trusted",
+    "trust_desc": "Built upon the proven track record of IYSA spanning over a decade, IYORA stands on a foundation of trust already earned and deeply established."
+  },
+  "cta_section": {
+    "title": "Ready to Compete at the Next Level?",
+    "desc": "Join tens of thousands of students from around the world who have chosen IYORA as their arena of excellence.",
+    "button": "Explore Competitions"
+  },
+  "footer": {
+    "tagline": "Born from IYSA, Dedicated to Olympiads.",
+    "competitions": "Competitions",
+    "about_us": "About Us",
+    "about": "About IYORA",
+    "vision": "Vision & Mission",
+    "team": "Expert Team",
+    "partners_label": "Partners",
+    "follow": "Follow Us",
+    "copyright": "© 2025 IYORA — Indonesian Youth Outstanding Recognition Association",
+    "born": "Born from IYSA"
+  },
+  "about": {
+    "hero_title": "About IYORA",
+    "hero_subtitle": "Understanding who we are, where we come from, and where we are headed.",
+    "story_title": "Our Story",
+    "story_body": "IYORA was born from a simple yet powerful conviction: that excellence demands focus. For more than a decade, IYSA has demonstrated that Indonesia's youth are capable of competing on the world science stage. Now, by establishing IYORA as a dedicated olympiad institution, we carry that commitment to the next level.\n\nEvery olympiad we organize is an opportunity for a student to discover their greatest potential. Every medal is recognition of years of dedication and intellectual discipline. That is the essence of our name: Recognition — acknowledgment of excellence.",
+    "vision_title": "Vision",
+    "vision_body": "To become Southeast Asia's foremost youth science olympiad institution, nurturing a generation of accomplished young scientists who are principled, globally competitive, and equipped to lead.",
+    "mission_title": "Mission",
+    "mission_1": "Organize high-quality science olympiads at national and international levels",
+    "mission_2": "Build a competition ecosystem that is fair, inclusive, and trustworthy",
+    "mission_3": "Connect Indonesian students with a global network of young scientists",
+    "mission_4": "Cultivate a culture of academic achievement grounded in scientific knowledge among Indonesian students",
+    "values_title": "Our Values",
+    "val_excellence": "Excellence",
+    "val_excellence_desc": "The highest standards in every event we organize",
+    "val_integrity": "Integrity",
+    "val_integrity_desc": "Competitions that are honest, fair, and transparent",
+    "val_inclusivity": "Inclusivity",
+    "val_inclusivity_desc": "Open to all students from all backgrounds",
+    "val_innovation": "Innovation",
+    "val_innovation_desc": "Continuously advancing in format and quality",
+    "val_collaboration": "Collaboration",
+    "val_collaboration_desc": "Building international bridges through science"
+  },
+  "competitions_page": {
+    "title": "Our Competitions",
+    "subtitle": "Twelve science olympiad disciplines, from national to international level.",
+    "filter_all": "All",
+    "filter_national": "National",
+    "filter_international": "International",
+    "filter_madrasah": "Madrasah",
+    "level": "Level",
+    "participants": "Participants",
+    "format": "Format",
+    "online": "Online",
+    "hybrid": "Hybrid",
+    "sma": "Senior High School",
+    "sd_sma": "Elementary – Senior High",
+    "mi_ma": "MI – MA (Madrasah)",
+    "visit_site": "Visit Website"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have a question? We are here to help.",
+    "name": "Name",
+    "email": "Email",
+    "institution": "Institution",
+    "purpose": "Purpose",
+    "purpose_info": "Olympiad Information",
+    "purpose_partner": "Partnership",
+    "purpose_media": "Media",
+    "purpose_other": "Other",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent! We will get back to you shortly.",
+    "our_email": "Our Email",
+    "location": "Location",
+    "location_value": "Indonesia"
+  }
+}
