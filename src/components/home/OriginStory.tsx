@@ -44,7 +44,7 @@ export default function OriginStory() {
   const bodyParagraphs = t("body").split("\n\n").filter(Boolean);
 
   return (
-    <section className="bg-white py-24 px-6 overflow-hidden">
+    <section className="bg-white py-16 md:py-24 px-6 overflow-hidden">
       <div className="max-w-6xl mx-auto">
         {/* Title */}
         <motion.div
@@ -52,7 +52,7 @@ export default function OriginStory() {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}
-          className="text-center mb-16"
+          className="text-center mb-10 md:mb-16"
         >
           <h2 className="text-3xl md:text-5xl font-extrabold text-gray-900 mb-4">
             {t("title")}
@@ -83,7 +83,7 @@ export default function OriginStory() {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}
-          className="text-center mb-20"
+          className="text-center mb-10 md:mb-20"
         >
           <p className="text-lg md:text-xl font-bold italic text-accent max-w-2xl mx-auto">
             &ldquo;{t("conclusion")}&rdquo;
@@ -98,7 +98,7 @@ export default function OriginStory() {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
-            className="flex-1 rounded-3xl md:rounded-r-none p-8 text-white flex flex-col"
+            className="flex-1 rounded-3xl md:rounded-r-none p-6 md:p-8 text-white flex flex-col"
             style={{
               background: "linear-gradient(135deg, #4f3280 0%, #66449b 100%)",
             }}
@@ -125,12 +125,13 @@ export default function OriginStory() {
           </motion.div>
 
           {/* Arrow divider */}
-          <div className="flex items-center justify-center z-10 my-4 md:my-0 md:-mx-4">
+          <div className="flex items-center justify-center z-10 my-3 md:my-0 md:-mx-4">
             <div
               className="w-10 h-10 rounded-full flex items-center justify-center shadow-lg text-white font-bold text-lg flex-shrink-0"
               style={{ backgroundColor: "#fb9722" }}
             >
-              →
+              <span className="md:hidden">↓</span>
+              <span className="hidden md:inline">→</span>
             </div>
           </div>
 
@@ -140,7 +141,7 @@ export default function OriginStory() {
             initial="hidden"
             whileInView="visible"
             viewport={{ once: true }}
-            className="flex-1 rounded-3xl md:rounded-l-none p-8 text-white flex flex-col"
+            className="flex-1 rounded-3xl md:rounded-l-none p-6 md:p-8 text-white flex flex-col"
             style={{
               background: "linear-gradient(135deg, #2a9496 0%, #39bcbe 100%)",
             }}

@@ -74,7 +74,7 @@ export default function HeroSection() {
       ))}
 
       {/* Main content */}
-      <div className="relative z-10 text-center text-white px-6 max-w-4xl mx-auto">
+      <div className="relative z-10 text-center text-white px-6 max-w-4xl mx-auto pb-20 sm:pb-0">
         <motion.div
           custom={0}
           variants={fadeUp}
@@ -152,7 +152,7 @@ export default function HeroSection() {
 
       {/* Scroll indicator */}
       <motion.div
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white/70 flex flex-col items-center gap-1"
+        className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white/70 hidden sm:flex flex-col items-center gap-1"
         animate={{ y: [0, 8, 0] }}
         transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
       >
